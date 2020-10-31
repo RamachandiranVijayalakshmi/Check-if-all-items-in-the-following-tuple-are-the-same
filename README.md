@@ -1,0 +1,1 @@
+# Check-if-all-items-in-the-following-tuple-are-the-same
